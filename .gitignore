@@ -1,6 +1,6 @@
 #Игнорировать .html_old
-.html_old
+*.html_old
 #Игнорировать .png_backup
-.png_backup
+*.png_backup
 #Игнорировать tmp/
 tmp/
