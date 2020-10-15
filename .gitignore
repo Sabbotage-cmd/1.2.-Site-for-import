@@ -4,3 +4,9 @@
 *.png_backup
 #Игнорировать tmp/
 tmp/
+#
+Thumbs.db
+#
+.DS_Store
+
+
